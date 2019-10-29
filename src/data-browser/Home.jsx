@@ -26,11 +26,12 @@ class Home extends Component {
           >Download entire datasets by state, MSA/MD, or nationwide or filter them by selected variables.
           </ImageCard>
           <ImageCard
-            caption="Maps & Graphs (coming soon)"
+            year="2018"
+            caption="Maps & Graphs"
             path="maps-graphs"
+            enabled
           >
           Visualize HMDA data through charts, graphs, and maps.
-
           </ImageCard>
         </div>
       </div>
